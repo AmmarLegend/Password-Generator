@@ -54,11 +54,7 @@ for(var i = 0; i < characterAmount; i++){
   password.push(randomPlaceHolder)
 }
 
-
-
-
   var passwordText = document.querySelector("#password");
-
   passwordText.value = password.join('');
 
 }
