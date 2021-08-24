@@ -19,7 +19,7 @@ The user will be prompted to choose from the following password criteria:
 * Special characters?
 
 ## ACCESS to Password Generator
-![Password-Generator](./assets/03-javaScript-homework-demo.png)
+![Password-Generator](./assets/03-javascript-homework-demo.png)
 
 Link: https://github.com/AmmarLegend/Password-Generator
 
